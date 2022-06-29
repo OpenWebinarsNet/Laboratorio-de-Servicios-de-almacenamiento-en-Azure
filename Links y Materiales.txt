@@ -1,0 +1,10 @@
+File Share
+
+https://azure.microsoft.com/en-us/features/storage-explorer/
+
+
+Original:
+https://dsdsrttgggeee.file.core.windows.net/?sv=2020-02-10&ss=bfqt&srt=sco&sp=rwdlacupx&se=2021-03-09T01:38:58Z&st=2021-03-08T17:38:58Z&spr=https&sig=OLz2Uqg3xnVnAVFewmDtBiFNmO0%2BpaCgpHMfJ3EeHS8%3D
+
+Actualizado
+https://afzstoragedba.file.core.windows.net/misarchivos?sr=s&sv=2020-02-10&ss=bfqt&srt=sco&sp=rwdlacupx&se=2021-04-24T06:26:50Z&st=2021-04-23T22:26:50Z&spr=https&sig=2SqMXOrrHu2LLf9hQhMpuVd4rFf5%2FTH686Xz0DooggA%3D
